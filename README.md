@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balasubramanian V</h1>
-<h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast | Data Science Explorer</h3>
+<h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;Automating+with+DevOps+%26+Cloud;Exploring+Data+Science+%26+ML;B.Tech+IT+Student+%40+SJCE" alt="Typing SVG" />
